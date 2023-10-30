@@ -1,5 +1,5 @@
 # sendEthers
-This projects sends and withdraws ether over Ganache :)  
+This projects sends and withdraws ether over Ganache
 
 <h3>Tech Stacks</h3>
 
@@ -28,4 +28,4 @@ This projects sends and withdraws ether over Ganache :)
 <b> Happy Hacking !! </b>
 </br>
 <br>
-Thanks !! Code Eater 😉😍
+Thanks Code Eater for helping.
