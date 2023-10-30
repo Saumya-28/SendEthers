@@ -18,8 +18,8 @@ This projects sends and withdraws ether over Ganache
 - git clone ```https://github.com/Saumya-28/SendEthers.git```
 - open terminal type ```npm install```
 - after completing ```npm start```
-- open <b> Metamask </b> , Send and Withdraw Ethers :)
-- Good Bye
+- open <b> Metamask </b> , Send and Withdraw Ethers
+
 
 <h4> Output </h4>
 <img src = "https://user-images.githubusercontent.com/48874687/229377333-5d90f154-0784-4c6e-81e9-2cf6e135f21a.png"/>
